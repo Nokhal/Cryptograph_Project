@@ -2,7 +2,7 @@
 
 Welcome to The Cryptograph Project Github.
 
-Things are still under construction as we are busy launching, but you can already browse the code of the published ecosystem here.
+Things are still under construction as we are busy launching, but you can already inspect the code of the published ecosystem as well. 
 
 Future changes and improvements to the codebase will also be made public here.  
 
@@ -93,4 +93,7 @@ Every address used in this mapping need to be approved by the Senate beforehand.
 [8] = 	0x73d0E4Ed50f8ae11634273263F37C15Bd164eCe9 is 'SingleAuctionBidLogicV1'  
 [9] = 	0xEB3F8Ed02E96dCd1EbE3f111B4F09FEfaDA20486 is 'TheCryptographLogicV1'  
 [10] = 	0x48546182b90eD519b5A67DAc19894B9060a879ce is 'EditionIndexerLogicV1'  
-[11] = 	0xBA0C786C8Ed053bDF235BD7726096079977a2a3C is 'MintingAuctionLogicV1'  
+[11] = 	0xBA0C786C8Ed053bDF235BD7726096079977a2a3C is 'MintingAuctionLogicV1'   
+         
+            
+Please be aware that the codebase is provided for transparency reasons, but that it's nonetheless protected by a proprietary license.     
