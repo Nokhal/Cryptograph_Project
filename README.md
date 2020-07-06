@@ -96,4 +96,4 @@ Every address used in this mapping need to be approved by the Senate beforehand.
 [11] = 	0xBA0C786C8Ed053bDF235BD7726096079977a2a3C is 'MintingAuctionLogicV1'   
          
             
-Please be aware that the codebase is provided for transparency reasons, but that it's nonetheless protected by a proprietary license.     
+*Please be aware that the codebase is provided for transparency reasons, but that it's nonetheless protected by a proprietary license.*     
