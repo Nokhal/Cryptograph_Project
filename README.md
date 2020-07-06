@@ -1,6 +1,6 @@
 # Cryptograph
 
-Welcome to the Cryptograph The Cryptograph Project Github.
+Welcome to The Cryptograph Project Github.
 
 Things are still under construction as we are busy launching, but you can already browse the code of the published ecosystem here.
 
