@@ -2,7 +2,7 @@
 
 Welcome to The Cryptograph Project Github.
 
-Things are still under construction as we are busy launching, but you can already inspect the code of the published ecosystem here. 
+Things are still under construction as we are busy launching, but you can already inspect the code of the published ecosystem in this repo. 
 
 Future changes and improvements to the codebase will also be made public here.  
 
