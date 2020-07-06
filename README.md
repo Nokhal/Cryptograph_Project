@@ -8,7 +8,11 @@ Future changes and improvements to the codebase will also be made public here.
 
 
 ### Deployed Contracts
-  These are the main contracts that are part of the Cryptograph ecosystem. To find the address of a specific Cryptograph, either use the Indexer or the ERC2665 contract. The tokenID are just Individual cryptographs addresses cast as uint256.    
+These are the main contracts that are part of the Cryptograph ecosystem.
+
+To interact with them, cast the relevant Logic Contract ABI on a Proxied Contract address.   
+
+To find the address of a specific Cryptograph, either use the Indexer or the ERC2665 contract. The tokenID are just Individual Cryptographs addresses cast as uint256.    
   
 'VersionControlLogicV1'  
 0x9b49Cf5a091B313fA4AD1f8f3A4d6B325d76F502  
