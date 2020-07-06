@@ -1,11 +1,10 @@
-# Cryptograph_Project
- The Cryptograph Project Github
+# Cryptograph
 
-Welcome to the Cryptograph Project.
+Welcome to the Cryptograph The Cryptograph Project Github.
 
 Things are still under construction as we are busy launching, but you can already browse the code of the published ecosystem here.
 
-Future changes and improvements to the codebase will also be made public here.
+Future changes and improvements to the codebase will also be made public here.  
 
 
 ### Deployed Contracts
