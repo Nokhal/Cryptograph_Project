@@ -8,7 +8,9 @@ Future changes and improvements to the codebase will also be made public here.
 
 
 ### Deployed Contracts
-These are the main contracts that are part of the Cryptograph ecosystem.
+These are the main contracts that are part of the Cryptograph ecosystem.   
+  
+Audit for the deployed codebase (Quanstamp) : [PDF](https://cryptographwebsitebucket.s3.eu-west-2.amazonaws.com/Cryptograph-Audit-Report.pdf)
 
 To interact with them, cast the relevant Logic Contract ABI on a Proxied Contract address.   
 
