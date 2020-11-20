@@ -78,6 +78,9 @@ To find the address of a specific Cryptograph, either use the Indexer or the ERC
   
 'CryptographKYCProxiedV1'  
 0x5e542437C814E443AC5dd338dA6FDE5acc1a4aE6  
+
+'ERC2665LogicV2'  
+0x0606e0b31fE9cdA692370abCaE5bAcCD25DcfAEA
   
 ### Version Control Mapping  
   This is the current Mapping used by the Version Control, directing which version of the logic code is used by the smart contracts.     
@@ -98,7 +101,9 @@ Every address used in this mapping need to be approved by the Senate beforehand.
 [11] = 	0xBA0C786C8Ed053bDF235BD7726096079977a2a3C is 'MintingAuctionLogicV1'   
          
             
-               
+### Senate voting mapping  
+  These are the current changes having been proposed to the senate.                  
                 
+ [0] = 	0x25270b75A472f894f58BeC3dAAEB6454C1fEde6F -> Adding 0x0606e0b31fE9cdA692370abCaE5bAcCD25DcfAEA (ERC2665LogicV2) to the pool of authorized addresses for logic mapping.
                 
 *Please be aware that the codebase is provided for transparency reasons, but that it's content is nonetheless protected by a proprietary license.*     
