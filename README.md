@@ -92,7 +92,7 @@ Every address used in this mapping need to be approved by the Senate beforehand.
 [2] = 	0xF04C879F52e700874A170c4C4e45b453Bd8234c6 is 'CryptographFactoryLogicV1'  
 [3] = 	0x42818e37383d9b31C29316780c8491ba0BF3Df57 is 'CryptographIndexLogicV1'  
 [4] = 	0xf607014406bc3Fa7aAB224a85A0318b4556e9C28 is 'AuctionHouseLogicV1'  
-[5] = 	0x0D5E41f858761537f2C7Ee8E25650F330C58161C is 'ERC2665LogicV1'  
+[5] = 	0x0606e0b31fE9cdA692370abCaE5bAcCD25DcfAEA is 'ERC2665LogicV2'  
 [6] = 	0xfD6dBc7De22Eb28B8997275320f5F1ab89370788 is 'CryptographKYCLogicV1'  
 [7] = 	0x1EEd26e3723Ff747C6ce374121c7fc29BDac3570 is 'SingleAuctionLogicV1'  
 [8] = 	0x73d0E4Ed50f8ae11634273263F37C15Bd164eCe9 is 'SingleAuctionBidLogicV1'  
