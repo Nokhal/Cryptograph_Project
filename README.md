@@ -119,15 +119,11 @@ Every address used in this mapping need to be approved by the Senate beforehand.
 ### Senate voting mapping  
   These are the current changes having been proposed to the senate.                  
                 
- [0] = 	0x25270b75A472f894f58BeC3dAAEB6454C1fEde6F -> Adding 0x0606e0b31fE9cdA692370abCaE5bAcCD25DcfAEA (ERC2665LogicV2) to the pool of authorized addresses for logic mapping.            
+ [0] = 	0x25270b75A472f894f58BeC3dAAEB6454C1fEde6F -> Adding 0x0606e0b31fE9cdA692370abCaE5bAcCD25DcfAEA (ERC2665LogicV2) to the pool of authorized addresses for logic mapping.          
  [1] = 0xe47C2ae71b02Afd919a02E68c46999a5A9FbfD70 -> Adding 0x7b47e4F5F304a38f904683af4c349D6A48c43F1a (AuctionHouseLogicV3) to the pool of authorized addresses for logic mapping.           
- 
 [2] = 0xAB7980369DbB8D3978002B8C5107e46d7B249F69 -> Adding 0x22Fb893aA579Cd0751A7D5962D12414DA3069ffa (CryptographFactoryLogicV3) to the pool of authorized addresses for logic mapping.                  
-
-[3] = 0x32a401CD0B422A8eAF4F3C009F43A6AA60059d54 -> Adding 0x6656D09aC2a65e73c2f1E3D628c69A05a501fafE (ERC2665LogicV3) to the pool of authorized addresses for logic mapping.   
-           
-[4] = 0x3db6A0DD9b7641D0a0FEA4C749367A426aC5a84E -> Adding 0x5f13c11F24220e53c06472242517d2C698705f62 (SingleAuctionLogicV3) to the pool of authorized addresses for logic mapping.       
-      
+[3] = 0x32a401CD0B422A8eAF4F3C009F43A6AA60059d54 -> Adding 0x6656D09aC2a65e73c2f1E3D628c69A05a501fafE (ERC2665LogicV3) to the pool of authorized addresses for logic mapping.              
+[4] = 0x3db6A0DD9b7641D0a0FEA4C749367A426aC5a84E -> Adding 0x5f13c11F24220e53c06472242517d2C698705f62 (SingleAuctionLogicV3) to the pool of authorized addresses for logic mapping.          
 [5] = 0xe359B1050DD34E0959C140238412622b679d0A28 -> Adding 0x57336a40a46C9a9A3422D9e910D398d7d93057f7 (TheCryptographLogicV3) to the pool of authorized addresses for logic mapping.
 
                 
